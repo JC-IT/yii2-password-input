@@ -1,4 +1,4 @@
-# Secrets storage and extractor
+# Extended password input with rules display
 
 [![Continous integration](https://github.com/jc-it/yii2-password-input/actions/workflows/ci.yaml/badge.svg)](https://github.com/jc-it/yii2-password-input/actions/workflows/ci.yaml)
 ![Packagist Total Downloads](https://img.shields.io/packagist/dt/jc-it/yii2-password-input)
