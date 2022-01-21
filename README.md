@@ -26,6 +26,9 @@ or add
 
 to the `require` section of your `composer.json` file.
 
+## TODO
+- Add tests
+
 ## Credits
 - [Joey Claessen](https://github.com/joester89)
 - [Krajee](https://demos.krajee.com/password)
