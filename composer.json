@@ -37,11 +37,6 @@
             "JCIT\\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "JCIT\\tests\\": "tests/"
-        }
-    },
     "scripts": {
         "lint": "vendor/bin/ecs",
         "lint-fix": "vendor/bin/ecs --fix"
